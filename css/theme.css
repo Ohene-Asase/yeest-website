@@ -2479,7 +2479,7 @@ textarea.form-control-lg {
 
 .btn-outline-light {
   --bs-btn-color: #f8f9fa;
-  --bs-btn-border-color: #f8f9fa;
+  --bs-btn-border-color: red !important;
   --bs-btn-hover-color: #111;
   --bs-btn-hover-bg: #f8f9fa;
   --bs-btn-hover-border-color: #f8f9fa;
@@ -3359,7 +3359,7 @@ textarea.form-control-lg {
       overflow-y: visible; }
 
 .navbar-dark {
-  --bs-navbar-color: rgba(255, 255, 255, 0.55);
+  /* --bs-navbar-color: rgba(255, 255, 255, 0.55); */
   --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
   --bs-navbar-active-color: #fff;
