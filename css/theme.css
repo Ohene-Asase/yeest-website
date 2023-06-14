@@ -5747,6 +5747,38 @@ textarea.form-control-lg {
 
 .top-0 {
   top: 0 !important; }
+  .blog .post-author .social-links {
+    margin: 0 10px 10px 0;
+  }
+  .svg-container a {
+    margin: 0 10px; /* Adjust the margin value to increase or decrease the space */
+  }
+  .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    line-height: 1;
+    margin-right: 8px;
+    border-radius: 4px;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+  }
+  /* .d-flexx {
+    justify-content: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+
+  .d-flexx > a {
+    margin-right: 10px; 
+  } */
+  
+  .blog .post-author .social-links a {
+    color: rgba(82, 86, 94, 0.5);
+    margin-right: 5px;
+  }
 
 .top-50 {
   top: 50% !important; }
